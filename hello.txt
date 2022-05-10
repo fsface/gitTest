@@ -6,3 +6,5 @@ nihao hello
 nihao hello master modify
 nihao hello hotfix modify
 life is fucking movie by master
+
+尚硅谷学习git，美滋滋
